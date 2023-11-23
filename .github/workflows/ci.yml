@@ -25,5 +25,6 @@ jobs:
           run: |
             python -m unittest test_suma.py
             python -m unittest test_resta.py
-            python -m unittest test_multiplicar.py
             python -m unittest test_dividir.py
+            python -m unittest test_multiplicar.py
+            
